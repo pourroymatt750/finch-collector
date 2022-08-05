@@ -1,6 +1,3 @@
-from finchcollector.settings import *
-settings.py
-
 # Data files
 data/
 
