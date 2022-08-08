@@ -1,1 +1,1 @@
-web: gunicorn finch-collector.wsgi
+web: gunicorn finchcollector.wsgi
